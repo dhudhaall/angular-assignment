@@ -1,0 +1,10 @@
+.customer-details{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    .box1{
+       flex-basis: 25%;
+       padding: 30px;
+
+    }
+}
